@@ -6,7 +6,6 @@ metadata:
   labels:
     app.kubernetes.io/name: kafka
     app.kubernetes.io/component: kafka
-    app.kubernetes.io/version: "2.5.0"
 spec:
   type: ClusterIP
   ports:
